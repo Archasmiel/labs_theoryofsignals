@@ -1,0 +1,14 @@
+barthann
+bartlett
+blackman
+blackmanharris
+bohman
+# missing maybe boxcar
+cosine
+# missing
+flattop
+hamming
+hann
+parzen
+triang
+tukey
